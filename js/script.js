@@ -1,6 +1,5 @@
 var pingPong = function(userNumber) {
   var numberArray = [];
-  if (userNumber < 0) { //negative numbers
     for (var index = -1; index >= userNumber; index--) {
       numberArray.push(index);
     }
