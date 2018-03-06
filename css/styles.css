@@ -16,6 +16,7 @@ body {
   padding: 2%;
 }
 
+.side-bar h4 {
   color: #FFE1A9;
 }
 
@@ -23,7 +24,6 @@ body {
   color: white;
 }
 
-.game {
   display: inline-block;
   margin: 3%;
 }
