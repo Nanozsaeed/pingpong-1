@@ -10,12 +10,12 @@ body {
   margin-bottom: 3%;
 }
 
+.side-bar {
   background-color: #7DAF7C;
   float: left;
   padding: 2%;
 }
 
-.side-bar h4 {
   color: #FFE1A9;
 }
 
